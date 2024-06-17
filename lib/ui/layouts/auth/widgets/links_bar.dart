@@ -1,5 +1,3 @@
-import 'dart:js_interop';
-
 import 'package:admin_dashboard/ui/buttons/link_text.dart';
 import 'package:flutter/material.dart';
 
