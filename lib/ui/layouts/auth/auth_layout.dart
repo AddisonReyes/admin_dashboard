@@ -47,7 +47,7 @@ class _DesktopBody extends StatelessWidget {
       width: size.width,
       child: Row(
         children: [
-          const BackgroundTwitter(),
+          const Expanded(child: BackgroundTwitter()),
           Container(
             height: double.infinity,
             width: 600,
